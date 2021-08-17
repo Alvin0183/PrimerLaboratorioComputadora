@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Computadora.Entidades;
+using Computadora.Negocio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,8 +10,27 @@ namespace Computadora
 {
     class Program
     {
+
         static void Main(string[] args)
         {
+            ClsComputadora clscomputadora = new ClsComputadora();
+            NClsComputadora nclscomputadora = new NClsComputadora();
+
+            clscomputadora.Modelo = "DELL";
+            clscomputadora.Teclado = "Teclado Mecanico, Ryzen 989. ";
+            clscomputadora.Procesador = "Intel Core 9, 8 nucleos. ";
+            clscomputadora.Ram1 = 120;
+            clscomputadora.Targetavideo = "RTX 3090";
+            clscomputadora.Almacenamiento = 1000;
+            clscomputadora.Dimensiones = 32 ;
+            clscomputadora.Resolucion = 1080;
+            clscomputadora.Sistema = "Windows 11 pro";
+            clscomputadora.Placamadre = "Strix Z390-I de ASUS";
+
+            Console.WriteLine(nclscomputadora.Encender(clscomputadora));
+
+            Console.ReadLine();
         }
     }
 }
+
