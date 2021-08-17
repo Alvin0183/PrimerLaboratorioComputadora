@@ -7,3 +7,8 @@ C:\Users\Ariel2004\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\bin
 C:\Users\Ariel2004\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\bin\Debug\Computadora.pdb
 C:\Users\Ariel2004\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\obj\Debug\Computadora.exe
 C:\Users\Ariel2004\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\obj\Debug\Computadora.pdb
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\bin\Debug\Computadora.exe.config
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\bin\Debug\Computadora.exe
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\bin\Debug\Computadora.pdb
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\obj\Debug\Computadora.exe
+C:\Users\Admin\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\obj\Debug\Computadora.pdb

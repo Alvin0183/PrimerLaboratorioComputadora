@@ -12,7 +12,7 @@ namespace Computadora.Negocio
     {
         public String Encender(ClsComputadora computadora)  
         {
-            return "La computadora con memoria ram de" + computadora.Ram1 + "Con procesador" + computadora.Procesador + "Esta encendida";
+            return "La computadora con memoria ram de " + computadora.Ram1 + "Con procesador " + computadora.Procesador + "Esta encendida";
             
     
             }
